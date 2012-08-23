@@ -3,6 +3,8 @@ Keychain Demo
 
 Demo of how to use the Keychain using MonoMac. This demo should help you use the Keychain to store Internet passwords.
 
+For a detailed description / tutorial see: http://dan.clarke.name/2012/08/using-the-keychain-in-monomac/
+
 License
 ===============
 
